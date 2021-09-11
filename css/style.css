@@ -46,10 +46,10 @@ header{
     font-size: 0.9rem;
     font-weight: normal;
      background-color: white;
-    color:black;
+    color: black;
     padding: 30px;
 }
-.anon span{
+.annon span{
     font-size: 6rem;
     line-height: 0;
 }
@@ -60,9 +60,12 @@ header{
     background-color: #d9b1b3;
     color: white;
 }
-annon{
+.annon{
     font-size: 1.6rem;
     font-style: italic;
     margin-bottom: 15px;
-
+}
+.annon-section p{
+    font-size: 0.8rem;
+    width:  50%;
 }
